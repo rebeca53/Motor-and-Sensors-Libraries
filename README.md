@@ -5,9 +5,9 @@ For project development at Manaus Instituto de Tecnologia, few libraries were de
 The processor used is NXP LPC1768. It is a mbed family processor. 
 I used the compiler as Adam Green shows in his GitHub account. :)
 
-The libraries are:
-GPS
-GY80, that includes ADXL345, L3G4200D and HMC5883L libs
-A simple ServoMotor lib
-Linear actuator
-Step-Servo Motor (also known Industrial Servo)
+The libraries are:<br  />
+GPS <br  />
+GY80, that includes ADXL345, L3G4200D and HMC5883L libs <br  />
+A simple ServoMotor lib <br  />
+Linear actuator <br  />
+Step-Servo Motor (also known Industrial Servo) <br  />
